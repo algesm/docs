@@ -1,8 +1,11 @@
-package DigitalPlant;
-
-public class Test1 {
-    public static void main(String[] arg){
-// //         System.out.println("Hello, dady");
-  //      System.out.println("Hello, dady 2");
-    }
-}
+Свод данных (Data Vault)
+таблица (table)
+взаимосвязь (relationship)
+родитель (parent)
+потомок (child)
+ключ (primary/foreign key)
+измерение (dimension) 
+факт (fact)
+искусственного интеллекта (artificial intelligence — AI)
+извлечения знаний (data mining — DM)
+плоский файл (flat file)
